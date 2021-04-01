@@ -1,0 +1,4 @@
+opencv-python <= 4.6.0.0
+pyzbar <= 2.0
+requests <= 2.30.0
+beautifulsoup4 <= 5.0.0
